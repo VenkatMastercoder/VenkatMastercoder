@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
- <p>🔭 I’m currently Study in <strong>Chennai institute of Techonlogy</strong> B.E Computer Science Engineering and working with <a href="https://www.eduengineering.net"><strong>Eduengineering</strong></a></p>
+ <p>🔭 I’m currently Study in <strong>Chennai Institute of Technology</strong>,B.E Computer Science Engineering and working with <a href="https://www.eduengineering.net"><strong>Eduengineering</strong></a></p>
  
  <p>🌱 I’m currently learning Javascript,React</p>
 
