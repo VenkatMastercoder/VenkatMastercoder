@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkatesan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <div align="center">
 <img src="https://res.cloudinary.com/dsq5spft3/image/upload/v1670662177/when-is-a-web-developer-needed_x9zsce.png" />
@@ -10,15 +10,15 @@
 </p>
 
 <div align="center">
- <p>🔭 I’m currently working on Eduengineering <a href="www.eduengineering.net">Edu Tech Platform Development</a></p>
+ <p>🔭 I’m currently Study in <strong>Chennai institute of Techonlogy</strong> B.E Computer Science Engineering and working with <a href="www.eduengineering.net"><strong>Eduengineering</strong></a></p>
  
  <p>🌱 I’m currently learning Javascript,React</p>
 
  <p>👨‍💻 All of my Projects are Available at [itsmevenkat.ccbp.tech](itsmevenkat.ccbp.tech)</p>
 
- <p>💬 Ask me about : I am Currently pursuing Computer science and Engineering in Chennai institute of technology</p>
+ <p>💬 Ask me about : Web Development</p>
 
- <p>📫 How to reach me *venkatesangunaraj@gmail.com*</p>
+ <p>📫 How to reach me <a href="venkatesangunaraj@gmail.com"> venkatesangunaraj@gmail.com <a> </p>
 </div>
 
 <h3 align="left">Connect with me:</h3>
