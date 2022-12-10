@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
- <p>🔭 I’m currently Study in <strong>Chennai institute of Techonlogy</strong> B.E Computer Science Engineering and working with <a href="www.eduengineering.net"><strong>Eduengineering</strong></a></p>
+ <p>🔭 I’m currently Study in <strong>Chennai institute of Techonlogy</strong> B.E Computer Science Engineering and working with <a href="https://www.eduengineering.net"><strong>Eduengineering</strong></a></p>
  
  <p>🌱 I’m currently learning Javascript,React</p>
 
@@ -18,7 +18,7 @@
 
  <p>💬 Ask me about : Web Development</p>
 
- <p>📫 How to reach me <a href="venkatesangunaraj@gmail.com"> venkatesangunaraj@gmail.com <a> </p>
+ <p>📫 How to reach me <a href="mailto:venkatesangunaraj@gmail.com"> venkatesangunaraj@gmail.com <a> </p>
 </div>
 
 <h3 align="left">Connect with me:</h3>
