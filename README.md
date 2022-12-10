@@ -14,7 +14,7 @@
  
  <p>🌱 I’m currently learning Javascript,React</p>
 
-  <p>👨‍💻 All of my Projects are Available at <a href="https://itsmevenkat.ccbp.tech"></a>My Works</p>
+  <p>👨‍💻 All of my Projects are Available at <a href="https://itsmevenkat.ccbp.tech">My Portfolio</a></p>
 
  <p>💬 Ask me about : Web Development</p>
 
