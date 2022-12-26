@@ -12,7 +12,7 @@
 <div align="center">
  <p>🔭 I’m currently Study in <strong>Chennai Institute of Technology</strong>,B.E Computer Science Engineering and working with <a href="https://www.eduengineering.net"><strong>Eduengineering</strong></a></p>
  
- <p>🌱 I’m currently learning Javascript,React</p>
+ <p>🌱 I’m currently learning Javascript & React</p>
 
   <p>👨‍💻 All of My Projects are Available at <a href="https://itsmevenkat.ccbp.tech">My Portfolio</a></p>
 
