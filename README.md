@@ -85,13 +85,6 @@
   
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkatmastercoder&show_icons=true&locale=en&layout=compact" alt="venkatmastercoder"/>
-</p>
-
-<p display="inline-block">
-<img display="inline-block" align="center"  src="https://github-readme-stats.vercel.app/api?username=venkatmastercoder&show_icons=true&locale=en" alt="venkatmastercoder" />
-</p>
 <p display="inline-block">  
 <img display="inline-block" align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=venkatmastercoder&" alt="venkatmastercoder" />
 </p>
