@@ -11,7 +11,7 @@
 ### About Me 🙋‍♂️
 - 🎓 I’m currently Studying In **Chennai Institute Of Technology BE Computer Science**
 
-- 🌱 I’m currently learning **Javascript & React***
+- 🌱 I’m currently learning **React***
 
 - 💭 Ask me anything about **Web Development**
 
