@@ -63,7 +63,7 @@
     <a href="https://linkedin.com/in/venkatesan-tech/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/venkatesan-tech/" />
     </a>
-    <a href="https://itsmevenkat.web.app/">
+    <a href="#">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://itsmevenkat.web.app/" />
     </a>
     <a href="https://venkatesan004.hashnode.dev/">
