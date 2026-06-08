@@ -109,14 +109,13 @@
 <h2><i>My GitHub Stats</i></h2>
 <p align="center">
    <img align="center" src="https://streak-stats.demolab.com/?user=venkatmastercoder&theme=radical" alt="venkatmastercoder" height="139"/>
-
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=venkatmastercoder&show_icons=true&theme=radical&locale=en&cache_seconds=1800" alt="venkatmastercoder" height="139" />
+   <img align="center" src="https://github-readme-stats-t51b.vercel.app/api?username=venkatmastercoder&show_icons=true&theme=radical&locale=en&cache_seconds=1800" alt="venkatmastercoder" height="139" />
 </p>
 <br>
 
 <!----------------------------------- Languages Used Section ------------------------------------>
 <h2>Languages Used :wrench:</h2>
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatmastercoder&layout=compact&theme=radical&cache_seconds=1800" alt="venkatmastercoder" height="139"/>
+   <img align="center" src="https://github-readme-stats-t51b.vercel.app/api/top-langs/?username=venkatmastercoder&layout=compact&theme=radical&cache_seconds=1800" alt="venkatmastercoder" height="139"/>
 </p>
 <br>
